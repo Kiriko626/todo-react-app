@@ -1,4 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## TODO-app
+React-приложение для демонстрации работы с различными компонентами библиотеки
 
 ## Available Scripts
 
